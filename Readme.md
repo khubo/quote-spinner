@@ -1,7 +1,6 @@
 # Quote Spinner
 ---
-Terminal spinner with a twist. show quotes instead of normal boring spinners
-
+Terminal spinner with a twist. show quotes instead of normal boring spinners. Copied from and inspired by [Sindresorhus](https://github.com/sindresorhus/cli-spinners/) awesome spinners
  ## API
  
  ``` js
@@ -20,4 +19,3 @@ Terminal spinner with a twist. show quotes instead of normal boring spinners
 
  `const spinner = new Spinner(quotes, 80)`
 
- 
